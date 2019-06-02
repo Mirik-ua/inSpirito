@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'myFont' ;
+  src: url('16898.otf');
+}
+.form{
+  font-family: 'myFont';
+  width: 30%;
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 1vw;
+  border-radius: 10px;
+  border: 2px solid lightblue;
+}
+#title{
+  font-family: 'myFont';
+  text-align: center
+}
+.form div{
+  margin: 5px
+}
+.error{
+  color: red;
+  padding-left: 20px;
+}
+.btn {
+  margin-left: 25%;
+}
+.required{
+  color: tomato;
+}
